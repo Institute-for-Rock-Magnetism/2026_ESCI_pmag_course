@@ -14,7 +14,7 @@
 	.st8{fill:none;stroke:#010101;stroke-width:2.0013;stroke-miterlimit:10;}
 	.st9{font-family:'SourceSansPro-Bold';}
 	.st10{font-size:18px;}
-	.st11{font-family:'Symbol';}
+	.st11{font-family:'SourceSansPro-Semibold';}
 </style>
 <polygon class="st0" points="143.91,138.22 129.59,143 129.59,133.45 143.91,138.22 "/>
 <line class="st1" x1="2.29" y1="138.22" x2="129.59" y2="138.22"/>
@@ -32,6 +32,6 @@
 <text transform="matrix(1 0 0 1 45.8135 83.6587)" class="st4 st9 st6">m</text>
 <text transform="matrix(1 0 0 1 108.8965 128.4722)" class="st4 st9 st10">B</text>
 <path class="st7" d="M86.74,70.67c1.52,1.51,3.79,2.92,4.55,4.55c0.76,1.62,0,3.46,0,5.2"/>
-<text transform="matrix(1 0 0 1 97.7812 71.9658)" class="st4 st11 st6">q</text>
-<text transform="matrix(1 0 0 1 146.501 85.5581)" class="st4 st11 st6">f</text>
+<text transform="matrix(1 0 0 1 139.5786 83.0068)" class="st4 st11 st6">φ</text>
+<text transform="matrix(1 0 0 1 95.8413 76.8008)" class="st4 st11 st6">θ</text>
 </svg>
